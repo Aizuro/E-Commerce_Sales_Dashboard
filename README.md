@@ -2,14 +2,11 @@
 
 Exploratory analysis and interactive dashboards built on a public Brazilian e-commerce dataset (about 99K orders, 2016–2018). The project answers two business questions and extends them with a customer (RFM) analysis, a delivery-route analysis and a seller concentration analysis.
 
-**Live demo:** [Streamlit dashboard] https://e-commerce-salesdashboard.streamlit.app/ · [Tableau Public] https://public.tableau.com/views/E-CommerceSalesDashboard_17930003761630/Penjualan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-*(The dashboard interface is in Indonesian.)*
+**Live demo:** 
+[Streamlit dashboard] https://e-commerce-salesdashboard.streamlit.app/ 
+[Tableau Public] https://public.tableau.com/views/E-CommerceSalesDashboard_17930003761630/Penjualan?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-<!-- Add 2-3 screenshots to a docs/ folder, then uncomment:
-![Sales tab](docs/streamlit-sales.png)
-![Delivery and review tab](docs/streamlit-delivery.png)
-![Customers tab](docs/streamlit-customers.png)
--->
+*(The dashboard interface is in Indonesian.)*
 
 ## Business questions
 
